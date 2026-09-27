@@ -229,9 +229,9 @@ You can use Postman or Thunder Client to send requests to the API and verify the
 
 ## 👨‍💻 Author
 
-**Hammaz**
+**Mohd Hammaz**
 
-GitHub: [@hammer-dev](https://github.com/hammer-dev)
+GitHub: [@hammaz-dev](https://github.com/hammaz-dev)
 
 ---
 
