@@ -63,7 +63,7 @@ WEB-DEV-ASSIGNMENT-2/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/hammer-dev/WEB-DEV-ASSIGNMENT-2.git
+git clone https://github.com/hammaz-dev/WEB-DEV-ASSIGNMENT-2.git
 ```
 
 ### 2. Navigate to the project
